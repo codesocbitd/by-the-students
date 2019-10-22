@@ -1,0 +1,358 @@
+All Important Definitions
+Object: An object is an unique entity of Object Oriented Programming Language, which   posses some state and attributes.
+
+Class: A class is a set of objects. Each object posses similar state and behavior defined within the same class.
+
+Data Abstraction: Data Abstraction is the act of representing essential features without including the background details.
+
+Encapsulation: The Binding/Wrapping up of data and its functions into a single unit is known as Encapsulation.
+
+Data Hiding: The insulation given to the data, due to which it cannot be accessed directly outside the class premises.
+
+Inheritance: Inheritance is the process of linking and sharing the common properties of objects from two different classes.
+
+Polymorphism: It is the process of using a function more than one purpose, with same external structure and with change in the internal structure.
+
+Dynamic Binding: Dynamic binding is the process of linking function call with function Signature during the execution of the program.
+
+OOP:-Object Oriented Programming : It is a modular approach ,which allows data to be applied stipulated program area. It increases the programmer's productivity. It gives more Emphasis on the data.
+
+Instance   : An Object is said to be an Instance of a class. Each Object show same properties described in the class.
+
+Instantiation :  Using the keyword new and creating a space for allocating the object in the dynamic memory is known as Instantiation.
+
+Initialization  : It is the process of calling the constructor to initialize the attributes of an object.
+
+Declaration : Using Class  as a data type to create a new object of that class.
+
+API : A set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
+
+IDE : An integrated development environment (IDE) or interactive development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger.
+
+Attribute : It is the state on which Objects differ. It deals with the contents of an object to make each object distinct.(belongings of a class)
+
+User Defined Data Type :Class is considered as User defined data type. User can use a class to create a new data type with some certain characteristics and behavior. So class is called user defined data type.
+
+Reusability : The process of adding some essential features to a class without modifying its contents. It can be done by inheritance.
+
+Applet :An Applet is written program in java language that can be included in an HTML page.
+
+Compiler :A software which converts high level language to machine level language. It complies the instructions at once and lists all the errors.
+
+Interpreter : A software which converts High level language to machine level language line by line .It does not move to next line until the error is corrected.
+
+Source Code : A set of instructions written in high level language which is taken as an input from the user .
+
+Machine code : The source code which is Complied/Interpreted is known as Machine code .
+
+Byte Code : Byte code is the simplest Form of Source code. Source code is compiled to an intermediate code called Byte code. It can easily pass from one computer to another.
+
+Object Code :The conversion of high-level language to a machine code with help of a translator known as Object code.
+
+Java Virtual Machine (JVM) :It is a virtual processor which processes byte code to machine code for various platforms. So ,Java Interpreter is known as JVM.
+
+Compilation :The type of language conversion is termed as Compilation.
+
+Interpretation : The process of conversion of the language is called Interpretation.
+
+Case Sensitive : It is a Feature of Java Programming. It differentiates between lower case and upper case Letters.
+
+Keywords  : Keywords are  prereserved words which cannot be used as any other alternative. They are reserved words of java which carry out a value/function/task.
+
+Java libraries :A java Library is a set of packages .Each package is made for a purpose.Ex:java.lang,java.io,java.util,etc.
+
+Comment : Comments are used to tell the user about the purpose and action of different steps in the program. Comments increase the readability of the program. Comments are executed during the program.
+
+Program : A program is a set of instructions ,data, functions which perform a specific task .
+
+Programming  :  The Process of Executing a program is known as programming.
+
+Function :A program module which is simultaneously used in the program at different instances to perform a task .It is also known as Method.
+
+Syntax : It is the Structural format of various keywords of java programming. The program segments are valid only if they are in format according to the Syntax given.
+
+Step Value : It determines the update of the control variable of looping structure until the test condition is false.
+
+Body of Loop :It contains a set of statements which are executed along with the loop simultaneously.
+
+Null Loop : A loop which does not contain any statement in the body of the loop is known as  Null Loop or Bodyless Loop.
+
+Endless Loop : A loop structure not having any end, it skips the step value of the loop structure and the test condition will be true always. So the Loop will run infinite times. This loop is called Endless loop or Infinite Loop.
+
+Nested Loop : A loop within a loop is known as nested loop.
+
+Delay Loop : A loop can be used to delay for some loading during the execution. The boy of the loop does not contain any meaningful operation but it is used to Delay the Operation.
+
+Stream :It is the flow of Characters maintained by the System .Characters flow from either input devices or processors to the Standard Output Device (VDU).
+
+Exception : An Exception is an unexpected situation that occurs during the execution of the program. It may be due to improper use of  input resources or overflow situation.
+
+Error : An error is an improper situation ,misuse of terms ,undesired result giver ,grammatical error in the program.
+
+Exception Handling :Overcoming an exception is known as Exception handling. In java Programming generally it is done with Try-Catch keywords.
+
+Wrapper Class :Wrapper class is used to create objects for the values of primitive data types. It wraps the primitive data type values into an object. It also provides conversion between character/string to other primitive types.
+
+Data Member :The state or characteristics of an object are considered to be as A Data member.
+
+Member method :The behavior and functions of an object are considered to be the Member methods.
+
+Static Data member : It is an instant variable which is global in the class and used commonly by all the objects of that class.
+
+Static member Method :It is a member method which uses only static data members or static instant variables.
+
+Package :A Package is a set of classes. Which carry out a certain task. They are imported in the program .
+
+User Defined Package : A User can create a package to use them in the program logic. A package may be defined by the users to be used in various program logic. These are known as user defined packages.
+
+Input Stream : A Input Stream contains functions related with  input/output operations. It allows the user to enter value from the console at the time of execution.
+
+Buffer : It is an high speed temporary memory storage which is applied between I/O devices and processor to synchronize their speeds.
+
+Array :  An array is a structure created in the memory to represent a number of same type of data using only single variable.
+
+Subscripted variable :When the elements of an array are specified by a single Subscript,the array is called subscripted variable.
+
+Subscript :Each Individual element of an array is termed as Subscript.
+
+JDK :Java Development Kit contains various libraries that can be used in the program.It is needed to run or write a Java Program.
+
+JRE :Java Runtime Environment.
+
+Tokens :Each individual and functional unit of a Java Program is considered as Tokens.
+
+Literals :Literals are the constants in the java Program.Their Value remain fixed throughout the program.
+
+Escape Sequences :These are the non-Graphic Characters which are used to control the cursor while printing.Ex: \n - new line ,\t - horizontal tab.
+
+Separators :These are the special characters in java ,used to separate or enclose different variables or characters.Ex : (.),(,)(),[],{}.
+
+Punctuators : Punctuation signs are used in program as special characters to terminate or for reference ,etc. Ex: (.),(;).
+
+Data Type :Data types are built in java to differentiate between the types of data taken as input from the user. So data types are defined already to differ all the type of data.
+
+Primitive Data Types (or)
+Composite Data Types : The data types which are independent of any other type are known as Primitive data types.(Basic data types).
+
+Non Primitive Data types (or)
+Reference Data Types : These are derived data types. They are directly or indirectly independent on Primitive data types.
+
+ASCII : Each character in Java, are given(assigned to) a ASCII code .These codes are taken into consideration during java programming.
+
+Identifiers :Identifiers are the variables in the java Program. A variable is a named memory location.
+
+Dynamic Initialization : When a method or functions is called and the return value is initialize to a variable is called dynamic initialization.
+
+Static Initialization :This process uses direct assignment of a variable constant. The variable is initialized during its declaration.
+
+Assignment : Storing constants to variables  using token '='. So, '=' is called Assignment operator.
+
+Erythematic Expression :It contains variables ,constants and arithmetical operators together to produce a meaningful result.
+
+Pure Expression : An arithmetic Expression which contains same type of data items.
+
+Mixed Expression :An expression which includes different types of variables or values which yield a result.
+
+Expression : A Set of variables or values which yield a result.
+
+Type Conversion : The process of converting one predefined type into another is called Type Conversion.
+
+Type Casting : The explicit conversion of an operand to a specific type is called type casting. The operator that converts its operand to a specified type is called the typecast operator.
+
+Explicit Conversion : an explicit type conversion is user defined that forces an expression to be of specific type.
+
+Coercion : A implicit type conversion is a conversion performed by the compiler. The Java compiler converts all operands up to the type of the largest operand. This is also known as type promotion.
+
+Operator :A symbol or a token which performs arthematicla or logical operations and yield a result.
+
+Operand : An operator acts on different data items/entities called operands.
+
+Statement : An expression which is assigned to a variable is completely known as statement.
+
+Unary Operator :An arithmetical operator which is applied with a single operand is known as Unary operator.
+
+Binary Operator :An arithmetic operator which deals with two operands, is known as Binary Operator.
+
+Ternary Operator  (or)
+Conditional Assignment Operator :Ternary operator deals with three operands. The value assigned to a variable depends upon a logical expression.
+
+Prefix :When increment or decrement operators are applied before the operant ,it is known as prefix operators.
+
+Postfix :When increment or decrement operators are applied after the operant ,it is known as prefix operators.
+
+Increment Operator :Increment operator increases the value of operand by one.
+
+Decrement Operator : Decrement operator decreases the value of operand by one.
+
+Erythematic Operator :An Operator which performs arithmetic functions is known as Erythematic Operator.
+
+Logical Operator :These Operator yield results in 0 and 1 depending upon the outcome of the result. They check between two variables or values.
+
+Relational Operators : Operators which are used to show or check relationship between operands are known as relational operators.
+
+Precedence of operators : Specific  order in which the operators in an expression are evaluated when the expression has several .
+
+Bitwise Operator : The Bitwise operators calculate each bit of their result by comparing the corresponding bits of the two operands.(a) the AND operator &(b) The OR operator |(c) The XOR operator ^(d) The compliment operator ~.
+
+Compound Statement : It is a block of code containing more than one executable statement. In Java the { } is called block and the statements written under {} is called compound statements or block statement. The { } opening and closing braces indicates the start and end of a compound statement.
+
+Mathematical Functions : The methods which perform mathematical calculations and which are included in a package of java. This package is automatically imported into the class.
+
+Return Type :It is the data type used before the method name in the method header that indicates the type of the outcome value.
+
+Return value : It is the value that returned to the caller when the function is invoked.
+
+Variables : A variable is a stored memory location .It is used to store different constant values.
+
+Label :Default and case keywords are known as labels.
+
+Fall through :The unusual execution of more than one cases at a time is known as fall through. This occurs when case is not applied between two or more cases. The control executes to the next case also for execution.
+
+Statement Terminator : Semicolon is the statement terminator in Java. It indicates the end of a statement.
+
+Case Terminator :  Break keyword is used as case terminator. Break does not allow the control to execute on to the next case. It indicates the end of the case.
+
+Jump statement : Break and Continue are the two jumping statements. Break terminates the execution of the loop or program. Continue skips the execution of one iteration of a loop.
+
+Testing : Testing is the process in which the program is validated by checking all the specifications desired.
+
+Debugging :Removal of errors in the program is known as Debugging .
+
+Iteration : Process of repeating mathematical or computing process or set of instructions again and again each time applying it to the previous stage is called Iteration.
+
+Loop : Set of instructions that are repeated again and again until a particular condition is satisfied.
+
+Control Variable : A variable ,which starts with an initial value and determines the duration of repetition is known as Control variable.
+
+Test Condition :  Each loop contains a test condition. It determines whether the loop has to be repeated or terminated.
+
+Linear Search : It is the simplest way of searching a value. The every element of array is checked with the value given by the user until the last element. It starts from the 0th position of the array.
+
+Binary Search : Binary Search takes place only on sorted data items where array is divided into halves and the value is checked in the desired half.
+
+Bubble Sort :In this method, many iterations takes place during each iteration pairs of consecutive elements are compared and arranged according to the order.
+
+Selection Sort :  In this method , Successive rounds are executed to select the elements in some order and place them in their  positions.
+
+Single Dimensional array : When the elements of an array are specified by a single Subscript,the array is called subscripted variable or single dimensional array.
+
+Scanner class :It is available in System package java.util .It is used to enter values from the user from console during the execution of the program.
+
+Delimeter : It is a special character used to take out tokens using Scanner class.
+
+Constructor : It is a member function with name same that oa class name used to initialize the values of instant variables.
+
+Invoking :The process of usng a method in the function in the program in called Invoking a method.
+
+Module : It is a program segment.
+
+Function prototype : The function prototype is the first line of the function definition that tells the program about the type of the value returned by the function and the number and types of arguments.
+
+Function Signature : Function signature basically refers to the number and types of the arguments, it is the part of the prototype.
+
+Function Header :It is the first line of a method. It contains parameters list,return type,access specifier,method name.
+
+Parameter list : It is list of parameters which are called during its invoking.
+
+Access Specifier : It gives the publicity modes of the method.It can be either public or Private or Protected.
+
+Return Statement :The statement which sends value from method to caller program is known as Return statement.
+
+ Actual Parameter : The parameter that appears in function call statement are called actual parameter.
+
+Formal Parameter : The parameter that appears in function definition are called formal parameter.
+
+ Pass by Value (or)
+Call by Value : Pass by value is the process of passing a copy of actual parameters to the formal Parameters.
+
+Pass by reference (or)
+Call by Reference :It is the procsee of passing the  reference of actual parameters to the formal parameters.
+
+Pure Function (or)
+Accesor : It is a Function which returns a value to the caller module.It does not change the state of an object.
+
+Impure Function (or)
+Mutator : This function may or may not return a value but it changes the state of an object.
+
+Function Overloading :It is the process of defining functions with the same function names but with different number and types of parameters.
+
+Static Binding (or)
+Early Binding : The System finds the best match of function arguments and parameter list during program compilation.This phenomenon is known as Static Binding or Early binding.
+
+Recursive Function : A function designed in such a way that it calls itself in its body is known  as Recursive Function.
+
+Parameters :   Parameters are the list of variables which are defined in the function definition or function call.
+
+Arguments : Arguments are the values passed to the actual parameters by pass by value or pass by reference due its invoking.
+
+Boolean Search :  It is a type of searching in which Boolean variable is used to check if the given value is present in the array elements or not.Example Prg : Boolean search.
+
+Nested Class : A nested class mean a class within a class.
+
+External Wrapper :External Wrapper is the class declaration enclosing inner part within a pair of curly brackets.
+
+Visibilty Modes : Visibilty modes are the Access Specifiers.They deal with the scope of usage of function.They are public,private,protected.
+
+Scope of Variable : It determines the visibility of a instant variable throughout the class.It shows the usage of variable in the program.
+
+Referencing  member methods :The process of referring the member methods from the main class through class objects.
+
+Nested member method : A method within a method is known as nested member method.
+
+Invoking a constructor : The process of using a constructor in the program is known as Invoking a Constructor.
+
+Default Constructor : A constructor which initializes instant variables of an object with definite values readily defined is known as Default Constructor.
+
+Parameterized Constructor : It is a member function with same name as the class name which is used to initialize the object variable by  passing parametric values at the time of its execution.
+
+Copy Constructor :  This Constructor is used to copy the initial values of the instant variables of an object to the instant variables of another object.
+
+Constructor Overloading  : It is the process of defining constructors with the same function names but with different type of parameters.
+
+Base Class (or) Super Class :  A class from which another class inherits .
+
+Derived Class (or) Sub Class : A class inheriting properties from another class.
+
+Single Inheritance : If a Base class is derived by a single target,then it is known as Single Inheritance.
+
+Multiple Inheritance : When a sub class inherits from multiple Base classes is known as multiple Inheritance.
+
+Hierarchical Inheritance : When many Targets inherit from a single base class ,it is known as Hierarchical Inheritance.
+
+Multilevel Inheritance : A target which inherits a Base class can in turn be used as a Base for another target.Such System is known as Multilevel or Nested Inheritance.
+
+Hybrid Inheritance :  When more than one type of Inheritance Systems are used together,it is known as Hybrid Inheritance.
+
+WORA  :Write Once Run Anywhere .It is a special feature of java which makes it  java platform independent.If a Program is written once,it can run on any platform.
+
+Keyword new :It is used to create a new object or a new array.It creates a memory for the variable or object .
+
+Keyword this  : It is the reference to the current object.
+
+Keyword extends : It is used to inherit a sub class to the super class.
+
+Type Promotion (or) Implicit Conversion :  The Java compiler converts all operands up to the type of the largest operand.This type of Conversion is known as type promotion or implicit conversion.
+
+Intrinsic data types : These are the primitive data types.They are independent of themselves.Ex: int,float,byte,char,double,etc.
+
+Output Stream : System maintains a flow of charaters from proceesor to the VDU known as Output Stream.
+
+Syntax Error (or) Sematic Error :  Error resulting when the grammer rules or the grammer of the programming language are not followed.
+
+Logical Error :  It is an error in planning the program's logic .There may be no errors while compiling but the result or outcome will not be correct.
+
+Runtime Error : These are mistakes other than  the syntax and logical error which come during the time of execution.
+
+ConditionalStatement : A statement which works on the given condition In the expression is known as Condition Statement.
+
+Index : It is the position of the character in a given string.The numbering of characters generally start from 0.
+
+Exit Control Loop : This loop checks the given test condition at the end of the loop structure.It checks the condition after executing the body of the loop.
+
+Entry Control Loop : This loop checks the condition and executes the loop only if the condition is true i.e.,It checks the condition at the entry of the loop.
+
+NaN :Not a Number.When a negative number is given in Math.sqrt() function.It results NaN.
+
+Infinity :When a number is divided by zero0. It results in infinity.
+
+Absurd Value : When a variable is not initialized with a value.It stores an absurd value in the space given for the variable in Compiler Allotment Phase.
