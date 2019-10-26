@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int num,originalno,sum,r;
+printf("\n enter a number");
+scanf("%d", &num);
+originalno =num;
+while(originalno !=0)
+{
+r=originalno%10;
+sum + =r*r*r;
+originalno /=10;
+}
+if(sum==num)
+printf("%d is an armstrong number", num);
+else
+printf("%d is not an armstrong number", num);
+getch();
+}
